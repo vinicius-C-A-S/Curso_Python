@@ -1,13 +1,24 @@
-#calcular o valor de área e perímetro de um quadrado
-#lado = int(input("Digite o valor do lado de um quadrado"))
-#perimetro = lado * 4
-#area = lado * lado
-#print("perímetro =" , perimetro ,"área =",area) 
+interpretador como calculadora de expressões matemáticas simples. 
+Adição 2+3
+Subtração 5-3
+adição e subtração 2+3-1
+multiplicação 2*3
+divisão 10/2
+exponenciação 2**3
+resto da divisão 10%3
 
-#calcular média aritmética de 4 notas
-nota1 = int(input("Digite o valor da primeira nota"))
-nota2 = int(input("Digite o valor da segunda nota"))
-nota3 = int(input("Digite o valor da terceira nota"))
-nota4 = int(input("Digite o valor da quarta nota"))
-media = ((nota1+nota2+nota3+nota4)/4)
-print("A média aritmética é:",media)
+#Variáveis
+a = 2, b = 3
+print(a+b)
+
+Salário = 1500
+aumento = 5
+print(Salário + (Salário * aumento / 100))
+
+nome = "Vinicius"
+print(nome)
+
+a = 3, b = 5
+print(2*a*3*b)
+
+
