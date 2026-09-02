@@ -1,0 +1,6 @@
+dias = input("Digite a quantidade de dias: ")
+horas = input("Digite a quantidade de horas: ")
+minutos = input("Digite a quantidade de minutos: ")
+segundos = input("Digite a quantidade de segundos: ")
+conversor = (int(dias) * 86400) + (int(horas) * 3600) + (int(minutos) * 60) + int(segundos)
+print("O total de segundos é: ", conversor)
